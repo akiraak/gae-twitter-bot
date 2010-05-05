@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+TWITTER_USER = "TWITTER_USER"
+CONSUMER_KEY = "CONSUMER_KEY"
+CONSUMER_SECRET = "CONSUMER_KEY"
+ACCESS_TOKEN = "ACCESS_TOKEN"
+ACCESS_TOKEN_SERCRET = "ACCESS_TOKEN_SERCRET"
+SEARCH_WORD = "%E6%A4%9C%E7%B4%A2" # http://search.twitter.com/search?q= --> %E6%A4%9C%E7%B4%A2 <--
+RT_COMMENTS = [
+    u'!',
+    u'?',
+]

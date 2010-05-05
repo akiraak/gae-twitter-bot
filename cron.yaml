@@ -1,0 +1,8 @@
+cron:
+- description: Cron Twitter
+  url: /jobs_local/cron-twitter
+  schedule: every 30 minutes
+
+- description: Post Twitter
+  url: /jobs_local/post-twitter
+  schedule: every 5 minutes
